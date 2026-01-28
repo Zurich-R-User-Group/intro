@@ -1,0 +1,4 @@
+/*_files
+/.quarto/
+# why docs created? assets already in its own folder
+/docs
