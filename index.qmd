@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the 37th meeting of the"
+title: "Welcome to the 38th meeting of the"
 subtitle: "Zurich R User Group"
 title-slide-attributes: 
   data-notes: "Welcome everyone to the 37th meeting of the Zurich R User group. Before we dive into the official part of today’s event, I’d like to share a few things regarding the R user group organisation and todays agenda.
@@ -165,19 +165,22 @@ So who is us? We’re a relatively new group of organizers, the six of us who or
 <br><br>
 
 
-[6.30](style="color:#276DC2;") Introduction / Welcome by the organizing team
+[6.20](style="color:#276DC2;") Introduction / Welcome by the organizing team
 
-[6.45](style="color:#276DC2;") Talks (Samuel Wittwer, Anna Reiffer)
+[6.30](style="color:#276DC2;") Talks (Stéphane Bisinger, Dr. Patrick Schratz)
 
-[7.50](style="color:#276DC2;") Take the Stage: Pitching job ads, ideas, events, ...
+[7.40](style="color:#276DC2;") Take the Stage: Pitching job ads, ideas, events, ...
 
-[8.00-9.00](style="color:#276DC2;") Apéro 🍻 🎉 💫
+[7.50-9.30](style="color:#276DC2;") Apéro 🍻 🎉 💫
 
 <br>
 
-[Thank you Speakers & University of Zurich!]{.large-text}
+[Thank you Speakers!]{.large-text}
 
 [Thank you R Consortium!]{.large-text}
+
+# Thank you KOF! 
+
 
 ## not shown {visibility="hidden"}
 
